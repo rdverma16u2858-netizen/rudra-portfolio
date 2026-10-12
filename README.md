@@ -2,6 +2,12 @@
 
 A responsive personal portfolio for my Scaler School of Technology web development project, built with **HTML, CSS, JavaScript, and Tailwind CSS**.
 
+## Live website
+
+[Visit the portfolio](https://rdverma16u2858-netizen.github.io/rudra-portfolio/)
+
+Hosted on GitHub Pages from the `main` branch. The root `index.html` forwards visitors to the portfolio folder, and `.nojekyll` tells GitHub Pages to serve the files directly.
+
 ## Open locally
 
 Download or clone this repository, then open **`portfolio/index.html`** in a browser. The compiled CSS and JavaScript are included locally; there is no installation step.
