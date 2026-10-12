@@ -1,4 +1,4 @@
-# Rudra Pratap Verma — Personal Portfolio
+# Rudra Verma — Personal Portfolio
 
 A responsive personal portfolio for my Scaler School of Technology web development project, built with **HTML, CSS, JavaScript, and Tailwind CSS**.
 

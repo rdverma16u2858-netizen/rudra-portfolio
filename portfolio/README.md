@@ -1,4 +1,4 @@
-# Rudra Pratap Verma — Personal Portfolio
+# Rudra Verma — Personal Portfolio
 
 A light, minimal portfolio built for the [Builders Day assignment](https://github.com/harshscaler/sec-e/blob/main/Project/project.md).
 
