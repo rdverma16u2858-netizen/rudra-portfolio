@@ -1,0 +1,13 @@
+/* Tailwind generates tailwind.css from the utility classes in our HTML/JS. */
+@import "tailwindcss";
+@source "../index.html";
+@source "../js/script.js";
+
+@theme {
+  --color-paper: #f8f9f5;
+  --color-ink: #242a25;
+  --color-muted: #656b63;
+  --color-olive: #526339;
+  --color-line: #dfe3d9;
+  --font-sans: "Arial", "Helvetica Neue", sans-serif;
+}

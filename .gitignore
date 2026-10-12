@@ -1,0 +1,5 @@
+.DS_Store
+preview/
+*.zip
+tailwindcss-macos-arm64
+portfolio/tailwindcss-macos-arm64
